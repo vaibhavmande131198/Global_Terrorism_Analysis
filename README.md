@@ -62,6 +62,16 @@ Nationality :- Nationality of Terrorist Organization
 
 Casualties :- It is the Sum of Number of people killed and Number of people Injured in the Terrorist Attack
 
+Steps involved:-
+
+● Loading the dataset
+
+● Null values Treatment
+
+● Exploratory Data Analysis
+
+● Data Visualization
+
 
 Conclusion:-
 
