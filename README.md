@@ -2,7 +2,8 @@
 Analysed by VAIBHAV MANDE
 
 
-![image](https://user-images.githubusercontent.com/125561289/221137209-181c1986-3def-4aa7-a2b3-71edb31ae13e.png)
+![image](https://user-images.githubusercontent.com/125561289/221137625-e59a3c19-3fc9-40a5-9402-50d07cbcb083.png)
+
 
 
 
