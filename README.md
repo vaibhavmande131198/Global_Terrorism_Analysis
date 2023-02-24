@@ -19,22 +19,28 @@ In this project we are doing the exploratory data analysis on the global terrori
 After analyzing the cleaned data, we divided the project into various types of analysis. The first is the analysis based on Trend of Terrorrism Per Year the second is the analysis based on Most affected areas of Terrorism. Third analysis based on Terrorist Organization and the last analysis is based on country.
 In the EDA we have conclude that after 2011 there is a large growth recorded in terrorist activity and 2014 appears to be a witness of huge terrorist attack.
 
-2. Characteristics of the Database :-
+3. Characteristics of the Database :-
 
 Contains information on over 1,80,000 terrorist attacks
 Currently the most comprehensive unclassified database on terrorist attacks in the world
 Efficiently covers attacks between 1970 to 2017
 
-4. Project Goals
-Study the source and do some quick research to understand more about the dataset and its topic
-Clean the data
-Prepare the data for processing and analysis
-Perform data pre-processing to manipulate the data for analysis and draft out targetted tabels for analysis
-Analyze the data more deeply and extract insights
-Visualize the data using Python 
+4. Project Goals :- 
+
+ ●Study the source and do some quick research to understand more about the dataset and its topic
+ 
+ ●Clean the data
+ 
+ ●Prepare the data for processing and analysis
+ 
+ ●Perform data pre-processing to manipulate the data for analysis and draft out targetted tabels for analysis
+ 
+ ●Analyze the data more deeply and extract insights
+ 
+ ●Visualize the data using Python 
 
 
-Steps involved:-
+5. Steps involved:-
 
 ● Loading the dataset
 
@@ -45,7 +51,7 @@ Steps involved:-
 ● Data Visualization
 
 
-Conclusion:-
+6. Conclusion:-
 
 1. It was clear that numbers of terrorist attacks were increases from 2002-2004. Most of the attacks were done on year 2014 and Iraq is the most affected country from terrorism because most of the peoples killed in iraq. In Iraq maximum of 1570 peoples killed in single attack. As expected Baghdad is most affected city(and yes this is also called province).
 
