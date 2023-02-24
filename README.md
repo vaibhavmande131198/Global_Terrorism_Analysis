@@ -1,5 +1,10 @@
-# Global_Terrorism_Analysis
-Almabetter capstone project.
+# GLOBAL_TERRORISM_ANALYSIS
+Analysed by VAIBHAV MANDE
+
+
+![image](https://user-images.githubusercontent.com/125561289/221137209-181c1986-3def-4aa7-a2b3-71edb31ae13e.png)
+
+
 
 Problem Statement :-
 
